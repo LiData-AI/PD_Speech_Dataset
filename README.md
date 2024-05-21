@@ -1,5 +1,6 @@
 # PD_Speech_Dataset
-This dataset is about Parkinson’s Disease subtypes recognition using speech. The subtypes include tremors, freezing of gait and dysphagia.
+This dataset is about Parkinson’s Disease subtypes recognition using speech. The subtypes include tremor, freezing of gait and dysphagia.
+
 For details, in PD_Speech_Dataset.csv, except for the first row, each row corresponds to a speech sample, and each column represents a feature with the exception of the final three columns, which are labels.
 
 The first 655 dimensions in the table are the features extracted from the speech of Parkinson's disease patients and the last three dimensions are the labels in the order of tremor, freezing of gait and dysphagia. The feature extraction process is referred to the following literatures:
